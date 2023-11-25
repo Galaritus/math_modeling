@@ -1,0 +1,13 @@
+earth_mass = 5.97237 * 10 ** 30
+sigma_steff_bolc = 5.67036713 * 10 ** (-8)
+gravity_constant = 6.67408 * 10 ** (-11)
+speed_of_light = 3 * 10 ** 8
+charge_unit = 1.6 * 10 ** (-19)
+avogadro = 6.02 * 10 ** 23
+astronomical_unit = 149.6 * 10 ** 6
+atom_unit_mass = 1.66057 * 10 ** (-27)
+electron_mass = 9.11 * 10 ** (-31)
+acceleration_of_gravity = 9.80665
+plank = 6.62607015 * 10 ** (-34)
+botzmann = 1.380649 * 10 ** (-23)
+euler = 2.718
